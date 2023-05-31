@@ -8,3 +8,8 @@
 	url = https://github.com/cran/MDFS
 	shallow = true
 	registered = true
+[submodule "RAFS"]
+	path = RAFS
+	url = https://github.com/cran/RAFS
+	shallow = true
+	registered = true
