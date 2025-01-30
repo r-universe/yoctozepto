@@ -5,3 +5,6 @@
 [submodule "MDFS"]
 	path = MDFS
 	url = https://github.com/cran/MDFS
+[submodule "RAFS"]
+	path = RAFS
+	url = https://github.com/cran/RAFS
